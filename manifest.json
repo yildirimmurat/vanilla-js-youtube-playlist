@@ -1,8 +1,8 @@
 {
     "lang": "en-US",
-    "name": "Temperature converter app",
-    "short-name": "Temperature converter",
-    "description": "A basic temperature converter application",
+    "name": "Youtube playlist app",
+    "short-name": "Youtube playlist",
+    "description": "A youtube playlist application",
     "start_url": "/",
     "background_color": "#2f3d58",
     "theme_color": "#2f3d58",
