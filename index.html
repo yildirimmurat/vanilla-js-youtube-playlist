@@ -17,7 +17,9 @@
     <script src="youtube_playlist.js"></script>
     <script>
         if ('serviceWorker' in navigator) {
-            navigator.serviceWorker.register('/sw.js', { scope: '/' });
+            navigator.serviceWorker.register('sw.js', { scope: '/' });
+        } else {
+            console.log('service worker is not in navigator')
         }
     </script>
 </body>
