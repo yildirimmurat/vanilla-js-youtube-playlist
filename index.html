@@ -14,12 +14,10 @@
 
     </div>
 
-    <script src="youtube_playlist.js"></script>
+    <script type="module" src="./youtube_playlist.js"></script>
     <script>
         if ('serviceWorker' in navigator) {
-            navigator.serviceWorker.register('sw.js', { scope: '/' });
-        } else {
-            console.log('service worker is not in navigator')
+            navigator.serviceWorker.register('./sw.js', { scope: '/' });
         }
     </script>
 </body>
