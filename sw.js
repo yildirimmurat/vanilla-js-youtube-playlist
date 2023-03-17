@@ -5,9 +5,8 @@ self.addEventListener('install', event => {
     event.waitUntil((async () => {
         const cache = await caches.open(CACHE_NAME);
         cache.addAll([
-            'https://yildirimmurat.github.io/vanilla-js-youtube-playlist/',
-            'https://yildirimmurat.github.io/vanilla-js-youtube-playlist/youtube_playlist.js',
-            'https://yildirimmurat.github.io/vanilla-js-youtube-playlist/style.css'
+            './youtube_playlist.js',
+            './style.css'
         ]);
     })());
 });
