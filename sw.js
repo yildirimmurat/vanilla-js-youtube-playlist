@@ -7,7 +7,7 @@ self.addEventListener('install', event => {
         cache.addAll([
             'https://yildirimmurat.github.io/vanilla-js-youtube-playlist/',
             'https://yildirimmurat.github.io/vanilla-js-youtube-playlist/youtube_playlist.js',
-            'https://yildirimmurat.github.io/vanilla-js-youtube-playlist/youtube_playlist.css'
+            'https://yildirimmurat.github.io/vanilla-js-youtube-playlist/style.css'
         ]);
     })());
 });
