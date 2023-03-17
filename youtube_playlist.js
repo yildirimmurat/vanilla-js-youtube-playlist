@@ -482,7 +482,7 @@ window.addEventListener('load', function() {
     let height = playVideo.getBoundingClientRect().height;
     playVideo.addEventListener('click', function() {
       const url = video_wrapper.dataset.ytUrl
-      video_wrapper.innerHTML = '<iframe allowfullscreen frameborder="0" class="embed-responsive-item" src="' + url + '" width="' + width + '" height="' + height + '"></iframe>';
+      video_wrapper.innerHTML = '<iframe allowfullscreen frameborder="0" class="embed-responsive-item" src="' + url + '" width="' + width + '" height="' + width + '"></iframe>';
     })
   }
 })
