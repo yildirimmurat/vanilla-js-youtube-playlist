@@ -106,7 +106,7 @@ let playlist2 = {
     'https://www.youtube.com/embed/PUlUY2viJeo',
     'https://www.youtube.com/embed/Q9ulofrg5IE',
     'https://www.youtube.com/embed/rwkw3l_Mu00',
-    'https://www.youtube.com/embed/gEKUY6OJyOw',
+    'https://www.youtube.com/embeed/gEKUY6OJyOw',
     'https://www.youtube.com/embed/3gD1Ctp2ugc',
     'https://www.youtube.com/embed/X7UPPWTr3GU',
     'https://www.youtube.com/embed/60wJzWvBUvc',
@@ -361,26 +361,138 @@ let playlist12 = {
     'https://www.youtube.com/embed/w75IXUQXO-Q',
   ]
 }
+let playlist13 = {
+  name: 'A2',
+  videos: [
+    'https://youtube.com/embed/bN2VaN3X7m4',
+    'https://youtube.com/embed/gpSnCUATFts',
+    'https://youtube.com/embed/JQbb1hX8kGQ',
+    'https://youtube.com/embed/jeaRiz8rnZU',
+    'https://youtube.com/embed/kK8_gOKs0CU',
+    'https://youtube.com/embed/JAPqx7oGICo',
+    'https://youtube.com/embed/oD0MfW4kw6s',
+    'https://youtube.com/embed/vJ9G8U3-Wt0',
+    'https://youtube.com/embed/Mvd0_hinj9c',
+    'https://youtube.com/embed/9cqsPLwqBCY',
+    'https://youtube.com/embed/1TyNJhDDIj4',
+    'https://youtube.com/embed/JrwTDddkLI8',
+    'https://youtube.com/embed/5lfQy_ehUks',
+    'https://youtube.com/embed/539srudBFPA',
+    'https://youtube.com/embed/BAqLFdEKi1w',
+    'https://youtube.com/embed/4Hb-m8Wk7I8',
+    'https://youtube.com/embed/SbCjMV3rG-o',
+    'https://youtube.com/embed/FDU6NDD6Stk',
+    'https://youtube.com/embed/Xd0Iv6Pg0qc',
+    'https://youtube.com/embed/n3LVxp1EpHw',
+    'https://youtube.com/embed/M1eOAkSjS6I',
+    'https://youtube.com/embed/JN2hDbeNTxg',
+    'https://youtube.com/embed/xr9IceS_LMs',
+    'https://youtube.com/embed/ImSE6SVKRaw',
+    'https://youtube.com/embed/BrKdNrVM14k',
+    'https://youtube.com/embed/UAfwLmPnApw',
+    'https://youtube.com/embed/q2fF9MtKGas',
+    'https://youtube.com/embed/8LaLYnuwEc4',
+    'https://youtube.com/embed/YRWyyyexyos',
+    'https://youtube.com/embed/nmekxquZnRQ',
+    'https://youtube.com/embed/bEF52N8qRhM',
+    'https://youtube.com/embed/qERgzfOUoKU',
+    'https://youtube.com/embed/9SCYHOFMIXs',
+    'https://youtube.com/embed/sNhQ94si57Q',
+    'https://youtube.com/embed/Hdk9gx_95QQ',
+    'https://youtube.com/embed/-l69oaaDapw',
+    'https://youtube.com/embed/BhF36pNQsJQ',
+    'https://youtube.com/embed/4zxDSBBACZI',
+    'https://youtube.com/embed/cq4-eOj0-nQ',
+    'https://youtube.com/embed/ALvv4LhpnHw',
+    'https://youtube.com/embed/_Vx1WR5tseQ',
+    'https://youtube.com/embed/dGLfggjm2oU',
+    'https://youtube.com/embed/LVjqyj-cjKo',
+    'https://youtube.com/embed/bdgz_PfdYJo',
+    'https://youtube.com/embed/cPPKjirsJok',
+    'https://youtube.com/embed/TinGgGXTVj4',
+    'https://youtube.com/embed/J_cxjBVjJlU',
+    'https://youtube.com/embed/Td6gh3RS_f4',
+    'https://youtube.com/embed/DL4DgyTRejw',
+    'https://youtube.com/embed/EL-fmZE90gk',
+    'https://youtube.com/embed/hMTX0HFIlGo',
+    'https://youtube.com/embed/CQ5ML7mjpRs',
+    'https://youtube.com/embed/7hLd34lGvG8',
+    'https://youtube.com/embed/XnWmWFGGjIE',
+    'https://youtube.com/embed/zEtZ-MYACF8',
+    'https://youtube.com/embed/5QHm1Pr6Z3g',
+    'https://youtube.com/embed/-JZEMa4dn-g',
+    'https://youtube.com/embed/Mzew-m15fH4',
+    'https://youtube.com/embed/kXt3Lchb8iA',
+    'https://youtube.com/embed/FecZIS3dw8I',
+    'https://youtube.com/embed/AEy6Efq4h3U',
+    'https://youtube.com/embed/uhNh7Zsd3uc',
+    'https://youtube.com/embed/CXcVfw2mvbM',
+    'https://youtube.com/embed/Co5MOpeE0Do',
+    'https://youtube.com/embed/eXrzIFlGgqo',
+    'https://youtube.com/embed/jpMpMrv12Jc',
+    'https://youtube.com/embed/QUJ5g88ROMw',
+    'https://youtube.com/embed/f62-szhsajg',
+    'https://youtube.com/embed/IKDRmEAIrfo',
+    'https://youtube.com/embed/b6v4Mig38NY',
+    'https://youtube.com/embed/356xn45556E',
+    'https://youtube.com/embed/bg1LqAruHtE',
+    'https://youtube.com/embed/naaJVvYJd0k',
+    'https://youtube.com/embed/6vdZhDMvoxM'
+  ]
+}
 
-playlists.push(playlist1);
-playlists.push(playlist2);
-playlists.push(playlist3);
-playlists.push(playlist4);
-playlists.push(playlist5);
-playlists.push(playlist6);
-playlists.push(playlist7);
-playlists.push(playlist8);
-playlists.push(playlist9);
-playlists.push(playlist10);
-playlists.push(playlist11);
-playlists.push(playlist12);
+
+// playlists.push(playlist1);
+// playlists.push(playlist2);
+// playlists.push(playlist3);
+// playlists.push(playlist4);
+// playlists.push(playlist5);
+// playlists.push(playlist6);
+// playlists.push(playlist7);
+// playlists.push(playlist8);
+// playlists.push(playlist9);
+// playlists.push(playlist10);
+// playlists.push(playlist11);
+// playlists.push(playlist12);
+// playlists.push(playlist13);
+
+const a2playlist = document.getElementById('a2playlist');
+playlist13.videos.forEach(a2videoUrl => {
+  let imgEl = document.createElement('img');
+  imgEl.src = 'a2bild.png';
+  imgEl.async = true;
+  imgEl.classList.add('play-youtube-video');
+
+  let videoPlaceEl = document.createElement('div');
+  videoPlaceEl.classList.add('youtube-video-place');
+  videoPlaceEl.classList.add('embed-responsive');
+  videoPlaceEl.classList.add('embed-responsive-4by3');
+  videoPlaceEl.dataset.ytUrl=a2videoUrl + "?rel=0&showinfo=0&autoplay=0";
+
+  videoPlaceEl.appendChild(imgEl);
+  a2playlist.appendChild(videoPlaceEl);
+})
+
+
+window.addEventListener('load', function() {
+  const video_wrappers = document.querySelectorAll('.youtube-video-place');
+  for (const video_wrapper of video_wrappers) {
+    let playVideo = video_wrapper.querySelector('.play-youtube-video');
+    let width = playVideo.getBoundingClientRect().width;
+    let height = playVideo.getBoundingClientRect().height;
+    playVideo.addEventListener('click', function() {
+      const url = video_wrapper.dataset.ytUrl
+      video_wrapper.innerHTML = '<iframe allowfullscreen frameborder="0" class="embed-responsive-item" src="' + url + '" width="' + width + '" height="' + height + '"></iframe>';
+    })
+  }
+})
 
 
 const wrapperEl = document.getElementById('playlists')
 
 playlists.forEach((playlist) => {
   // create playlist container
-  let playlistContainerEl = document.createElement('section');  
+  let playlistContainerEl = document.createElement('section');
 
   // put title div into playlist container
   let titleEl = document.createElement('div');
@@ -435,12 +547,12 @@ playlists.forEach((playlist) => {
     // append list element to unordered list element
     listContainerEl.appendChild(listEl);
   })
-  
+
   // append title element
   playlistContainerEl.appendChild(titleEl);
   // append unordered list element to playlist container
   playlistContainerEl.appendChild(listContainerEl);
-  
+
   // on click of title of sections video playlists should toggle showing
   titleEl.addEventListener('click', () => {
     listContainerEl.classList.toggle('showPlaylist')
@@ -449,7 +561,7 @@ playlists.forEach((playlist) => {
     title.classList.toggle('active');
     titleIconEl.classList.toggle('active');
   })
-  
+
   // append playlist container
   wrapperEl.appendChild(playlistContainerEl);
 })
