@@ -3,16 +3,17 @@
     "name": "Youtube playlist app",
     "short-name": "Youtube playlist",
     "description": "A youtube playlist application",
-    "start_url": "/",
+    "start_url": "/index.html",
     "background_color": "#2f3d58",
     "theme_color": "#2f3d58",
     "orientation": "any",
     "display": "standalone",
+    "offline_enabled": true,
     "icons": [
         {
             "src": "./icon512.png",
-            "sizes": "512x512"
+            "sizes": "512x512",
+            "type": "image/png"
         }
     ]
-
 }
