@@ -3,7 +3,7 @@
     "name": "Youtube playlist app",
     "short-name": "YT Playlist",
     "description": "A basic youtube playlist application",
-    "start_url": "/pwa-basic-app/",
+    "start_url": "/vanilla-js-youtube-playlist/",
     "background_color": "#2f3d58",
     "theme_color": "#2f3d58",
     "orientation": "any",
