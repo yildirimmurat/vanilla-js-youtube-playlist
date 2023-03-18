@@ -15,7 +15,10 @@
 
 .sidebar li {
 	margin-bottom: 10px;
+}
+.sidebar li.list-group-item {
 	background-color: #ccc;
+
 }
 
 .sidebar a {
